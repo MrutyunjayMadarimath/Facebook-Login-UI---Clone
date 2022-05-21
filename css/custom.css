@@ -37,3 +37,40 @@ footer{
     position: relative;
     top: 175px;
 }
+
+@media(max-width: 820px){
+    .form-card{
+        position: relative;
+        left: 125px;
+        top: 50px;
+    }
+}
+
+@media(max-width: 912px){
+    .form-card{
+        position: relative;
+        left: 125px;
+        top: 50px;
+    }
+}
+@media(max-width: 540px){
+    .form-card{
+        position: relative;
+        left: 35px;
+        top: 50px;
+    }
+}
+@media(max-width: 280px){
+    .form-card{
+        position: relative;
+        left: 0px;
+        top: 50px;
+    }
+}
+@media(max-width: 414px){
+    .form-card{
+        position: relative;
+        left: 0px;
+        top: 50px;
+    }
+}
